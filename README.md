@@ -4,7 +4,7 @@
 
 _test fish version_
 
-[![CI](https://github.com/gazorby/fish-version/actions/workflows/ci.yml/badge.svg)](https://github.com/gazorby/fish-version/actions/workflows/ci.yml)
+[![CI](https://github.com/gazorby/fish-version/actions/workflows/ci.yaml/badge.svg)](https://github.com/gazorby/fish-version/actions/workflows/ci.yaml)
 
 Test semver version numbers in your scripts
 
